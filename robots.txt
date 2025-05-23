@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://inatogel.vercel.app/sitemap.xml
